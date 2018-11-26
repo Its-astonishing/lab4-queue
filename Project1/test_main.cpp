@@ -1,4 +1,6 @@
 #include "gtest.h"
+#include "queue.h"
+#include "Proc.h"
 
 int main(int argc, char **argv)
 {
